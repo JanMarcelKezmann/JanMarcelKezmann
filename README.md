@@ -3,6 +3,7 @@
 ## I'm a Developer, Creator and Mathematician!
 
 - 🔭 I’m currently working on my semantic segmentation github repository [TASM]!
+- 🔭 I'm currently learning to build Machine Learning Pipelines and documentating my progress here: [BMLP]
 - 🌱 I’m currently learning new areas of Machine Learning like Self-Supervised and Statistical Learning 📕
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and create digital value
@@ -28,5 +29,6 @@
 
 
 [TASM]: https://github.com/JanMarcelKezmann/TensorFlow-Advanced-Segmentation-Models
+[BMLP]: https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes
 [Instagram]: https://instagram.com/codeSTACKr
 [LinkedIn]: https://www.linkedin.com/in/jan-marcel-kezmann/
