@@ -2,12 +2,12 @@
 
 ## I'm a Developer, Creator and Mathematician!
 
-- 🔭 I’m currently working on my semantic segmentation github repository [TASM]!
-- 🔭 I'm currently learning to build Machine Learning Pipelines and documentating my progress here: [BMLP]
+- 🔭 I'm currently learning to build Machine Learning Pipelines and documentate my progress here: [BMLP]
 - 🌱 I’m currently learning new areas of Machine Learning like Self-Supervised and Statistical Learning 📕
+- 🔭 I’m recently finished working on my semantic segmentation github repository [TASM]!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and create digital value
-- ⚡ Fun fact: I love to do sports and learn everything 😄
+- ⚡ Fun fact: I love to do sports and learn everything related to any Science field 😄
 - 📫 How to reach me: Reach me via [LinkedIn], [Instagram] or directly via E-Mail jankezmann@t-online.de
 
 ### Languages and Tools:
