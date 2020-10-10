@@ -26,7 +26,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<img align="left" alt="Apache Beam" width="20px" src="https://beam.apache.org/images/logos/full-color/nameless/beam-logo-full-color-nameless.svg" />
+<img align="left" alt="Apache Airflow" width="26px" src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji_transparent.png?api=v2" />
 
 [TASM]: https://github.com/JanMarcelKezmann/TensorFlow-Advanced-Segmentation-Models
 [BMLP]: https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes
