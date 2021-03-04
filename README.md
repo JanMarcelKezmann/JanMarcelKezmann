@@ -6,7 +6,10 @@
 - 🌱 I’m currently learning new areas of Machine Learning like Self-Supervised and Statistical Learning 📕
 - 🔭 I’m recently finished working on my semantic segmentation github repository [TASM]!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects and create digital value
+- 🥅 2021 Goals:
+    - Contribute more to Open Source projects and create digital value
+    - Implement a repository for semi-supervised and self-supervised learning algorithms in Computer Vision
+    - Build applications to bring projects to live
 - ⚡ Fun fact: I love to do sports and learn everything related to any Science field 😄
 - 📫 How to reach me: Reach me via [LinkedIn], [Instagram] or directly via E-Mail jankezmann@t-online.de
 
