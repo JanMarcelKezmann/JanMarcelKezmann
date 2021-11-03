@@ -33,10 +33,10 @@
 <img align="left" width="36px" src="https://avatars3.githubusercontent.com/u/38081706?s=400&u=963d11e5a1e77618d6baab30d32d40cb17e4064d&v=4">
 <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Apache Beam" width="26px" src="https://beam.apache.org/images/logos/full-color/nameless/beam-logo-full-color-nameless.svg" />
-<img align="left" alt="Apache Airflow" width="34px" src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji_transparent.png?api=v2" />
+<img align="center" alt="Apache Airflow" width="34px" src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji_transparent.png?api=v2" />
 
 [TASM]: https://github.com/JanMarcelKezmann/TensorFlow-Advanced-Segmentation-Models
 [SSL Image Classification]: https://github.com/JanMarcelKezmann/Semi-Supervised-Learning-Image-Classification
 [BMLP]: https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes
-[Instagram]: https://instagram.com/codeSTACKr
+[Instagram]: https://instagram.com/jankezmann
 [LinkedIn]: https://www.linkedin.com/in/jan-marcel-kezmann/
