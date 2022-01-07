@@ -13,6 +13,10 @@
 - ⚡ Fun fact: I love to do sports 😄 and learn everything related to any Science field 📕
 - 📫 How to reach me: Reach me via [LinkedIn], [Instagram] or directly via E-Mail jankezmann@t-online.de
 
+
+![JanMarcelKezmann's github stats](https://github-readme-stats.vercel.app/api?username=JanMarcelKezmann&show_icons=true&hide_border=true)
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
