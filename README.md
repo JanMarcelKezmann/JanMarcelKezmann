@@ -16,6 +16,16 @@
 
 ![JanMarcelKezmann's github stats](https://github-readme-stats.vercel.app/api?username=JanMarcelKezmann&show_icons=true&hide_border=true)
 
+#### Top Repositories
+
+<a href="https://github.com/JanMarcelKezmann/TensorFlow-Advanced-Segmentation-Models">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanMarcelKezmann&repo=TensorFlow-Advanced-Segmentation-Models&layout=compact"/>
+</a>
+<a href="https://github.com/JanMarcelKezmann/Semi-Supervised-Learning-Image-Classification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanMarcelKezmann&repo=Semi-Supervised-Learning-Image-Classification&layout=compact"/>
+</a>
+
+
 
 ### Languages and Tools:
 
