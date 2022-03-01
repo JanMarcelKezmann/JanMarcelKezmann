@@ -16,7 +16,7 @@
 
 ![JanMarcelKezmann's github stats](https://github-readme-stats.vercel.app/api?username=JanMarcelKezmann&show_icons=true&hide_border=true)
 
-#### Top Repositories
+## Top Repositories
 
 <a href="https://github.com/JanMarcelKezmann/TensorFlow-Advanced-Segmentation-Models">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanMarcelKezmann&repo=TensorFlow-Advanced-Segmentation-Models&layout=compact"/>
@@ -25,9 +25,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanMarcelKezmann&repo=Semi-Supervised-Learning-Image-Classification&layout=compact"/>
 </a>
 
+## Stats
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=janmarcelkezmann&label=Profile%20views&color=0e75b6&style=flat" alt="janmarcelkezmann" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janmarcelkezmann" alt="janmarcelkezmann" /></a> </p>
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="TensorFlow" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
