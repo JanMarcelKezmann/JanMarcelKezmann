@@ -2,13 +2,12 @@
 
 ## I'm a Developer, Creator and Mathematician!
 
-- 🔭 I'm currently learning to build Machine Learning Pipelines and documentate my progress here: [BMLP]
-- 🌱 I’m currently learning new areas of Machine Learning like Self-Supervised and Statistical Learning [SSL Image Classification]
-- 🔭 I’m recently finished working on my semantic segmentation github repository [TASM]!
+- 🌱 I'm currently digging more into Time Series Classification for work.
+- 🔭 I’m recently finished working on my semantic segmentation github repository [MetaDetect3D]!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals:
+- 🥅 2022 Goals:
     - Contribute more to Open Source projects and create digital value
-    - Implement a repository for semi-supervised and self-supervised learning algorithms in Computer Vision
+    - Finish my paper and repository for MetaDetect3D
     - Build applications to bring projects to live
 - ⚡ Fun fact: I love to do sports 😄 and learn everything related to any Science field 📕
 - 📫 How to reach me: Reach me via [LinkedIn], [Instagram] or directly via E-Mail jankezmann@t-online.de
@@ -47,8 +46,6 @@
 <img align="left" alt="Apache Beam" width="26px" src="https://beam.apache.org/images/logos/full-color/nameless/beam-logo-full-color-nameless.svg" />
 <img align="center" alt="Apache Airflow" width="34px" src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji_transparent.png?api=v2" />
 
-[TASM]: https://github.com/JanMarcelKezmann/TensorFlow-Advanced-Segmentation-Models
-[SSL Image Classification]: https://github.com/JanMarcelKezmann/Semi-Supervised-Learning-Image-Classification
-[BMLP]: https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes
+[MetaDetect3D]: https://github.com/JanMarcelKezmann/MetaDetect3D
 [Instagram]: https://instagram.com/jankezmann
 [LinkedIn]: https://www.linkedin.com/in/jan-marcel-kezmann/
